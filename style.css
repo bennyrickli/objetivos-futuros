@@ -5,11 +5,11 @@
 
 :root{
     --cor-de-fundo: #301d1d;
-    --verde: #6FFF57;
+    --verde: #57a5ff;
     --branco: #e4dddd;
-    --botao-ativo: #3A375E;
+    --botao-ativo: #4438c2;
     --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --texto-fundo: rgba(26, 5, 255, 0.74);
 }
 
 body {
